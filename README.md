@@ -13,6 +13,21 @@ This project contains the backend side of the frontend project (React cards proj
 - **dotenv**: Module to load environment variables from a `.env` file.
 - **Nodemon**: Utility that monitors for any changes in your source and automatically restarts your server.
 
+## Libraries Used
+bcryptjs- a widely used library for securely hashing passwords.
+chalk- a declarative drawing library.
+config- a popular module used for managing application configuration settings.
+cors- used to enable or configure cross-origin requests in a web application.
+cross-env- a small but useful tool that helps you set environment variables in a cross-platform way.
+dotenv- a popular Node.js module used to load environment variables from a .env file into process.env in your Node.js application.
+express- a popular, lightweight, and flexible web application framework for Node.js.
+joi-  a powerful and widely used data validation library for JavaScript.
+jsonwebtoken- a widely-used Node.js library that allows you to create, sign, verify, and decode JSON Web Tokens (JWTs).
+lodash- a popular JavaScript utility library that provides a wide range of functions for working with arrays, objects, strings, and other data types in a more efficient and cleaner way.
+mongoose- a popular Object Data Modeling (ODM) library for MongoDB and Node.js.
+morgan- a popular HTTP request logging middleware for Node.js applications.
+
+
 ## Installation Instructions
 
 1. **Clone the repository:**
