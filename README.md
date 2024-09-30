@@ -31,7 +31,7 @@ This project contains the backend side of the frontend project (React cards proj
     Create a `.env` file in the root directory and add the following variables:
     ```env
     PORT=8181,
-    MONGODB_URI=mongodb+srv://natanelg1:RFMGFuJgOdG9V8SM@cluster0.wqt4rma.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+   MONGODB_URI=YOUR_ATLASS_CONNECTION_STRING
     ```
 
 4. **Start the server:**
