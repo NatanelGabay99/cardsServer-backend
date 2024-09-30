@@ -1,7 +1,6 @@
 # Project Title
 CardsServer-Backend
 
-
 ## Description
 This project contains the backend side of the frontend project (React cards project). It provides APIs for managing business cards, including creating, updating, deleting, and retrieving card information. The backend is built using Node.js and Express, and it connects to a MongoDB database to store card data.
 
@@ -26,7 +25,6 @@ jsonwebtoken- a widely-used Node.js library that allows you to create, sign, ver
 lodash- a popular JavaScript utility library that provides a wide range of functions for working with arrays, objects, strings, and other data types in a more efficient and cleaner way.
 mongoose- a popular Object Data Modeling (ODM) library for MongoDB and Node.js.
 morgan- a popular HTTP request logging middleware for Node.js applications.
-
 
 ## Installation Instructions
 
