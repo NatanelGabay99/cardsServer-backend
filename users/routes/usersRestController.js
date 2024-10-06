@@ -52,6 +52,10 @@ router.get("/:id", authenticatedUser, async (req, res) => {
 
 router.get("/", authenticatedUser, async (req, res) => {
   try {
+    const userInfo = req.user;
+    if (!userInfo.isAdmin) {
+      return handleError(res, 403, "Authoruzation Error: Only admin can get all users")
+    }
     let users = await getUsers();
     res.send(users);
   } catch (error) {
