@@ -53,7 +53,7 @@ morgan- a popular HTTP request logging middleware for Node.js applications.
     ```
 
  5. **Review BackEnd Documentation**   
-    Here you may review the documentation for the backend side of the cards project via link
+    Here you may review the documentation for the backend side of the cards project via link:
     Cards documentation: ["https://documenter.getpostman.com/view/34977862/2sAXxQes7z"]
     Users documentation: ["https://documenter.getpostman.com/view/34977862/2sAXxQdCAj"],
 
